@@ -23,14 +23,17 @@ Let's start with SVD exercice
 
 ##  Notebook for worksheet 2
 
+What about Gradient, Jacobian and Hessian ?
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
 
+[JULIA](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W2.html)
 
 ##  Notebook for worksheet 3
 
+Have a look to some functions (2D) and saddle points, max or min (local)
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
 
-
+[JULIA](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W3.html)
 
 
 ## REFERENCES TO START WITH JULIA
