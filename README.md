@@ -2,7 +2,7 @@
 #MAE Matlab Julia 
 
 
-This webpage is for SUPAERO's MAE Students.
+This webpage is for SUPAERO's MAE Students. This cheetseet is really helpfull https://cheatsheets.quantecon.org
 
 
 
@@ -10,11 +10,11 @@ This webpage is for SUPAERO's MAE Students.
 
 TUTORIALS FOR WORKSHEET 1
 
-https://cheatsheets.quantecon.org
+*******************
+
 
 # Let's start with SVD exercice
 
-[Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W1.html)
 
@@ -22,7 +22,7 @@ https://cheatsheets.quantecon.org
 [JULIA](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.html)
 
 
-*******************
+
 
 
 
