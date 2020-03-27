@@ -1,4 +1,4 @@
-## OptimizationCourse
+# Optimization Course 2020
 Keyword: Scientific computing, continuous, unconstrained, constrained optimization, with Matlab and Julia 
 
 
@@ -6,7 +6,7 @@ This webpage is for SUPAERO's MAE Students. This cheatsheet is really helpfull h
 
 
 
-# Notebook for worksheet 1
+## Notebook for worksheet 1
 
 
 Let's start with SVD exercice
@@ -21,19 +21,19 @@ Let's start with SVD exercice
 
 
 
-# Notebook for worksheet 2
+##  Notebook for worksheet 2
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
 
 
-# Notebook for worksheet 3
+##  Notebook for worksheet 3
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
 
 
 
 
-# REFERENCES TO START WITH JULIA
+## REFERENCES TO START WITH JULIA
 
 
 
