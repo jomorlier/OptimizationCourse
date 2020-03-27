@@ -4,6 +4,28 @@ MAE Matlab Julia
 
 This webpage is for SUPAERO's MAE Students.
 
+
+
+*******************
+
+TUTORIALS FOR WORKSHEET 1
+
+https://cheatsheets.quantecon.org
+
+
+*******************
+
+
+
+
+
+*******************
+
+TUTORIALS FOR WORKSHEET 2
+
+*******************
+
+
 *******************
 
 REFERENCES TO START WITH JULIA
@@ -25,22 +47,3 @@ http://vmls-book.stanford.edu
 https://juliadocs.github.io/Julia-Cheat-Sheet/
 
 
-
-*******************
-
-TUTORIALS FOR WORKSHEET 1
-
-https://cheatsheets.quantecon.org
-
-
-*******************
-
-
-
-
-
-*******************
-
-TUTORIALS FOR WORKSHEET 2
-
-*******************
