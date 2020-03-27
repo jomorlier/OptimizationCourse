@@ -1,5 +1,5 @@
 ## OptimizationCourse
-#MAE Matlab Julia 
+MAE Matlab Julia 
 
 
 This webpage is for SUPAERO's MAE Students. This cheetseet is really helpfull https://cheatsheets.quantecon.org
@@ -13,7 +13,7 @@ TUTORIALS FOR WORKSHEET 1
 *******************
 
 
-# Let's start with SVD exercice
+Let's start with SVD exercice
 
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W1.html)
@@ -33,6 +33,20 @@ TUTORIALS FOR WORKSHEET 1
 TUTORIALS FOR WORKSHEET 2
 
 *******************
+
+
+[MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
+
+
+*******************
+
+TUTORIALS FOR WORKSHEET 3
+
+*******************
+
+
+[MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
+
 
 
 *******************
