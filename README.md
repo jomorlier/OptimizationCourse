@@ -14,15 +14,13 @@ https://cheatsheets.quantecon.org
 
 #Let's start with SVD exercice
 
-[Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
+[Matlab](http://htmlpreview.github.io/?
+https://github.com/jomorlier/OptimizationCourse/tree/master/MATLAB/W1.html)
 
 
-[Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
+[JULIA](http://htmlpreview.github.io/?
+https://github.com/jomorlier/OptimizationCourse/tree/master/JULIA/W1.html)
 
-
-[MATLAB SOLUTION](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/MATLAB/W1.html)
-
-[JULIA SOLUTION](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/JULIA/W1.html)
 
 *******************
 
