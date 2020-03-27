@@ -2,7 +2,7 @@
 MAE Matlab Julia 
 
 
-This webpage is for SUPAERO's MAE Students. This cheetseet is really helpfull https://cheatsheets.quantecon.org
+This webpage is for SUPAERO's MAE Students. This cheatsheet is really helpfull https://cheatsheets.quantecon.org
 
 
 
