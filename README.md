@@ -16,6 +16,10 @@ https://cheatsheets.quantecon.org
 
 [Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
 
+
+[Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
+
+
 [MATLAB SOLUTION](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/MATLAB/W1.html)
 
 [JULIA SOLUTION](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/JULIA/W1.html)
