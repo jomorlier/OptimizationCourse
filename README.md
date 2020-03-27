@@ -1,16 +1,12 @@
 ## OptimizationCourse
-MAE Matlab Julia 
+Keyword: Scientific computing, continuous, unconstrained, constrained optimization, with Matlab and Julia 
 
 
 This webpage is for SUPAERO's MAE Students. This cheatsheet is really helpfull https://cheatsheets.quantecon.org
 
 
 
-*******************
-
-TUTORIALS FOR WORKSHEET 1
-
-*******************
+# Notebook for worksheet 1
 
 
 Let's start with SVD exercice
@@ -25,35 +21,21 @@ Let's start with SVD exercice
 
 
 
-
-
-
-*******************
-
-TUTORIALS FOR WORKSHEET 2
-
-*******************
-
+# Notebook for worksheet 2
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
 
 
-*******************
-
-TUTORIALS FOR WORKSHEET 3
-
-*******************
-
+# Notebook for worksheet 3
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
 
 
 
-*******************
 
-REFERENCES TO START WITH JULIA
+# REFERENCES TO START WITH JULIA
 
-*******************
+
 
 https://github.com/JuliaLang/IJulia.jl
 
