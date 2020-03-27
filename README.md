@@ -1,5 +1,5 @@
-# OptimizationCourse
-MAE Matlab Julia 
+## OptimizationCourse
+#MAE Matlab Julia 
 
 
 This webpage is for SUPAERO's MAE Students.
@@ -12,7 +12,7 @@ TUTORIALS FOR WORKSHEET 1
 
 https://cheatsheets.quantecon.org
 
-#Let's start with SVD exercice
+# Let's start with SVD exercice
 
 [Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
 
