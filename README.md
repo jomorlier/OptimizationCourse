@@ -12,7 +12,9 @@ TUTORIALS FOR WORKSHEET 1
 
 https://cheatsheets.quantecon.org
 
-Let's start with SVD exercice
+#Let's start with SVD exercice
+
+[Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
 
 [MATLAB SOLUTION](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/MATLAB/W1.html)
 
