@@ -14,12 +14,10 @@ https://cheatsheets.quantecon.org
 
 #Let's start with SVD exercice
 
-[Matlab](http://htmlpreview.github.io/?
-https://github.com/jomorlier/OptimizationCourse/tree/master/MATLAB/W1.html)
+[Matlab](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/MATLAB/W1.html)
 
 
-[JULIA](http://htmlpreview.github.io/?
-https://github.com/jomorlier/OptimizationCourse/tree/master/JULIA/W1.html)
+[JULIA](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/tree/master/JULIA/W1.html)
 
 
 *******************
