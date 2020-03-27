@@ -2,7 +2,7 @@
 MAE Matlab Julia 
 
 
-This webpage is for SUPAERO's MAE Student.
+This webpage is for SUPAERO's MAE Students.
 
 *******************
 
@@ -11,8 +11,11 @@ REFERENCES TO START WITH JULIA
 *******************
 
 https://github.com/JuliaLang/IJulia.jl
+
 http://mth229.github.io
+
 https://docs.julialang.org/en/v1/stdlib/Pkg/index.html
+
 https://github.com/JuliaPy/SymPy.jl
 
 
