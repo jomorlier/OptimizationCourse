@@ -22,7 +22,7 @@ What about Gradient, Jacobian and Hessian ?
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W2.md)
-[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.pdf)
+[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W2.pdf)
 
 ##  Notebook for worksheet 3
 
@@ -31,7 +31,7 @@ Have a look to some functions (2D) and saddle points, max or min (local)
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W3/W3.md)
-[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.pdf)
+[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W3.pdf)
 
 ##  Notebook for worksheet 4
 
@@ -40,7 +40,7 @@ On simple unconstrained problem with descent direction and newton
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W4.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W4/W4.md)
-[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.pdf)
+[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W4.pdf)
 
 
 ## REFERENCES TO START WITH JULIA
