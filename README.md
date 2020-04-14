@@ -4,6 +4,8 @@ Keyword: Scientific computing, continuous, unconstrained, constrained optimizati
 
 This webpage is for SUPAERO's MAE Students. This cheatsheet is really helpfull https://cheatsheets.quantecon.org
 
+Nice blog, really helpful: https://nhigham.com/category/what-is/
+
 
 
 ## Notebook for worksheet 1
