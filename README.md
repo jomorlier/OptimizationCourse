@@ -7,10 +7,9 @@ This webpage is for SUPAERO's MAE Students. This cheatsheet is really helpfull h
 Nice blog, really helpful: https://nhigham.com/category/what-is/
 
 
-
 ## Notebook for worksheet 1
 
-Let's start with [SVD exercice](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercices_01.pdf)
+Let's start with [SVD exercice](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercises_01.pdf)
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W1.html)
 
@@ -19,7 +18,7 @@ Let's start with [SVD exercice](https://github.com/jomorlier/OptimizationCourse/
 
 ##  Notebook for worksheet 2
 
-What about [Gradient, Jacobian and Hessian ?](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercices_02.pdf)
+What about [Gradient, Jacobian and Hessian ?](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercises_02.pdf)
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
 
@@ -28,7 +27,7 @@ What about [Gradient, Jacobian and Hessian ?](https://github.com/jomorlier/Optim
 
 ##  Notebook for worksheet 3
 
-Have a look to some functions [(2D) and saddle points, max or min (local)](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercices_03.pdf)
+Have a look to some functions [(2D) and saddle points, max or min (local)](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercises_03.pdf)
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
 
@@ -37,7 +36,7 @@ Have a look to some functions [(2D) and saddle points, max or min (local)](https
 
 ##  Notebook for worksheet 4
 
-On a simple [unconstrained problem with descent direction and newton](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercices_04.pdf)
+On a simple [unconstrained problem with descent direction and newton](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercises_04.pdf)
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W4.html)
 
