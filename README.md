@@ -10,7 +10,7 @@ Nice blog, really helpful: https://nhigham.com/category/what-is/
 
 ## Notebook for worksheet 1
 
-Let's start with SVD exercice
+Let's start with [SVD exercice](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercices1.pdf)
 
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W1.html)
 
