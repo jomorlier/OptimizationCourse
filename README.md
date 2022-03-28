@@ -38,6 +38,10 @@ Have a look to some functions [(2D) and saddle points, max or min (local)](https
 
 On a simple [unconstrained problem with descent direction and newton](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercises_04.pdf)
 
+Symetry of the bilinear form
+https://en.wikipedia.org/wiki/Symmetric_bilinear_form
+
+
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W4.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W4/W4.md)
