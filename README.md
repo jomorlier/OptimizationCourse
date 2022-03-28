@@ -6,6 +6,8 @@ This webpage is for SUPAERO's MAE Students. This cheatsheet is really helpfull h
 
 Nice blog, really helpful: https://nhigham.com/category/what-is/
 
+Another Excellent blog : https://medium.com/sho-jp/tagged/linear-algebra
+
 
 ## Notebook for worksheet 1
 
