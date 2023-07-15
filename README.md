@@ -1,4 +1,4 @@
-# Optimization Course 2020
+# Optimization Course
 Keyword: Scientific computing, continuous, unconstrained, constrained optimization, with Matlab and Julia 
 
 
