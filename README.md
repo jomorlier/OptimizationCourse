@@ -8,6 +8,10 @@ Nice blog, really helpful: https://nhigham.com/category/what-is/
 
 Another Excellent blog : https://medium.com/sho-jp/tagged/linear-algebra
 
+Which MATLAB Optimization functions can solve my problem? [link](https://blogs.mathworks.com/matlab/2023/01/04/which-matlab-optimization-functions-can-solve-my-problem/)
+
+[A crystal clear video](https://www.youtube.com/watch?v=GR4ff0dTLTw)
+
 
 ## Notebook for worksheet 1
 
