@@ -22,6 +22,8 @@ Let's start with [SVD exercice](https://github.com/jomorlier/OptimizationCourse/
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.md)
 [PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.pdf)
 
+[Recipes for Quadratic form](https://github.com/jomorlier/OptimizationCourse/blob/master/MAEMATHS-2.pdf)
+
 ##  Notebook for worksheet 2
 
 What about [Gradient, Jacobian and Hessian ?](https://github.com/jomorlier/OptimizationCourse/blob/master/Exercises_02.pdf)
