@@ -20,9 +20,10 @@ Let's start with [SVD exercice](https://github.com/jomorlier/OptimizationCourse/
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W1.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.md)
-[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W1.pdf)
 
-[Recipes for Quadratic form](https://github.com/jomorlier/OptimizationCourse/blob/master/MAEMATHS-2.pdf)
+[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/PYTHON/W1.ipynb)
+
+[Recipes for Quadratic form](https://github.com/jomorlier/OptimizationCourse/blob/master/MAEMATHS.pdf)
 
 ##  Notebook for worksheet 2
 
@@ -31,7 +32,8 @@ What about [Gradient, Jacobian and Hessian ?](https://github.com/jomorlier/Optim
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W2.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W2.md)
-[PDF](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W2.pdf)
+
+[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/PYTHON/W2.ipynb)
 
 ##  Notebook for worksheet 3
 
@@ -40,7 +42,8 @@ Have a look to some functions [(2D) and saddle points, max or min (local)](https
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W3.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W3/W3.md)
-[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W3.pdf)
+
+[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/PYTHON/W3.ipynb)
 
 ##  Notebook for worksheet 4
 
@@ -53,7 +56,8 @@ https://en.wikipedia.org/wiki/Symmetric_bilinear_form
 [MATLAB](http://htmlpreview.github.io/?https://github.com/jomorlier/OptimizationCourse/blob/master/MATLAB/W4.html)
 
 [JULIA](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W4/W4.md)
-[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/JULIA/W4.pdf)
+
+[PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/PYTHON/W4.ipynb)
 
 
 ## REFERENCES TO START WITH JULIA
