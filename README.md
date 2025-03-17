@@ -8,6 +8,7 @@ Nice blog, really helpful: https://nhigham.com/category/what-is/
 
 Another Excellent blog : https://medium.com/sho-jp/tagged/linear-algebra
 
+
 Which MATLAB Optimization functions can solve my problem? [link](https://blogs.mathworks.com/matlab/2023/01/04/which-matlab-optimization-functions-can-solve-my-problem/)
 
 [A crystal clear video](https://www.youtube.com/watch?v=GR4ff0dTLTw)
@@ -60,9 +61,7 @@ https://en.wikipedia.org/wiki/Symmetric_bilinear_form
 [PYTHON](https://github.com/jomorlier/OptimizationCourse/blob/master/PYTHON/W4.ipynb)
 
 
-## REFERENCES TO START WITH JULIA
-
-
+## Curated list on JULIA
 
 https://github.com/JuliaLang/IJulia.jl
 
@@ -77,5 +76,13 @@ https://github.com/JuliaPy/SymPy.jl
 http://vmls-book.stanford.edu
 
 https://juliadocs.github.io/Julia-Cheat-Sheet/
+
+## Curated list on numerical optimization
+
+https://github.com/qzhu2017/Numerical-Optimization/tree/master
+
+https://indrag49.github.io/Numerical-Optimization/
+
+https://github.com/danielrherber/engineering-optimization-examples/tree/main?tab=readme-ov-file
 
 
